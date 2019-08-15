@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tp1</string>
+    <string name="graphique">Graphique</string>
+    <string name="texte">Texte</string>
+    <string name="afficher">Afficher</string>
+    <string name="nettoyer">Nettoyer</string>
+    <string name="erreur0">Erreur: formule de longueur nulle.\n</string>
+    <string name="erreur1">Erreur: la formule commence par un chiffre.\n</string>
+    <string name="erreur2">Erreur: ceci n\'est pas un atome existant.\n</string>
+    <string name="erreur3">Erreur: un multiplicateur doit suivre un élément ou une parenthèse fermante.\n</string>
+    <string name="erreur4">Erreur: Un multiplicateur doit être au moins de 2.\n</string>
+    <string name="erreur5">Erreur: les zéros en trop ne sont pas permis devant un nombre.\n</string>
+    <string name="erreur6">Erreur: les parenthèses vides sont interdites.\n</string>
+    <string name="erreur7">Erreur: Parenthèse fermante sans parenthèse ouvrante.\n</string>
+    <string name="erreur8">Erreur: Parenthèse ouvrante sans parenthèse fermante.\n</string>
+    <string name="erreur9">Erreur: caractère invalide (y compris une minuscule qui ne suit pas une majuscule).\n</string>
+    <string name="msgOK">Opération réussie, formule chimique valide.</string>
+</resources>
